@@ -6,6 +6,7 @@
     <RootNamespace>Assessment_2</RootNamespace>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
+    <StartupObject>Product1.ProductProgram</StartupObject>
   </PropertyGroup>
 
 </Project>
